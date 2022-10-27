@@ -3,5 +3,5 @@ def fact(n):
         return 1
     else:
         return n*fact(n-1)
-    print("Resultat")
+    print("Resultat super")
     
